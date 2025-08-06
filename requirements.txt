@@ -1,6 +1,3 @@
 python-telegram-bot
 openpyxl
-yfinance
-matplotlib
-mplfinance
-pandas
+
